@@ -49,7 +49,9 @@ if url == 'https://taxifare.lewagon.ai/predict':
 
 2. Let's build a dictionary containing the parameters for our API...
 '''
-diccy = pd.DataFrame()
+diccy = {
+    
+}
 '''
 3. Let's call our API using the `requests` package...
 
